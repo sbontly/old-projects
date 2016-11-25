@@ -23,3 +23,7 @@ Surfer Dude:
 DMX lighting system:
   
   I started to creat a basic light control system using the Enttec Open DMX ethernet device. I realized later on that Data translation happens faster in CHOPs, at which point I had moved on to other projects
+  
+BMVA:
+
+  Created a video playback for the Berlin Music Video Awards. I can trigger each video and play intros and sponsor logos on multiple screens.
