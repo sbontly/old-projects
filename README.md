@@ -31,3 +31,8 @@ BMVA:
  Kons BMVA:
  
    Basic VJ performance for a DJ based in Berlin
+   
+Wild Sirenda:
+
+   Impromptu visual setup for a DJ performer Duo. Love International Croatia
+  
