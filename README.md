@@ -27,3 +27,7 @@ DMX lighting system:
 BMVA:
 
   Created a video playback for the Berlin Music Video Awards. I can trigger each video and play intros and sponsor logos on multiple screens.
+ 
+ Kons BMVA:
+ 
+   Basic VJ performance for a DJ based in Berlin
